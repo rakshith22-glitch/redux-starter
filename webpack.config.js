@@ -12,3 +12,10 @@ module.exports = {
   },
   mode: "development"
 };
+
+
+let obj = {
+    data: "asdas"
+}
+
+console.log(obj.data)
